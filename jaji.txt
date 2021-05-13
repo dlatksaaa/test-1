@@ -1,0 +1,3 @@
+String jichang = "han nam chung";
+if(jichang == "han nam chung") {
+ jichang = "재기해";}
